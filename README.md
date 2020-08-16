@@ -4,5 +4,5 @@ file-sorter is a file management system written in Python that monitors a specif
 It currently supports audio, video, image, compressed, executable, document and torrent file types.
 
 # Usage
-Currently, the directory to monitor is stored within the filesorter.py file uner the `orig` variable.
+Currently, the directory to monitor is stored within the filesorter.py file under the `orig` variable.
 The paths files should be sorted to are stored in the `sorted_path_dict` dictionary.
