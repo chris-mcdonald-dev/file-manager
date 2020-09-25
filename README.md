@@ -1,5 +1,5 @@
-# file-sorter
-file-sorter is a file management system written in Python that monitors a specified directory and organizes its files into pre-designated folders by corresponding file type.
+# File Manager
+File Manager is a file management system written in Python that monitors a specified directory and organizes its files into pre-designated folders by corresponding file type.
 
 It currently supports audio, video, image, compressed, executable, document and torrent file types.
 
